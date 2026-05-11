@@ -15,3 +15,5 @@ The workflow includes:
 - SQLite
 - matplotlib
 - Jupyter Notebook
+
+[Open the notebook](./conversational_analysis.ipynb)
